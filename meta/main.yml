@@ -1,0 +1,15 @@
+galaxy_info:
+  role_name: flush-handlers
+  author: ome-devel@lists.openmicroscopy.org.uk
+  description: Flush all handlers
+  company: Open Microscopy Environment
+  license: BSD
+  min_ansible_version: 2.3
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  - name: Ubuntu
+    versions:
+    - xenial
+  galaxy_tags: []

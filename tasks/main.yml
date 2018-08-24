@@ -1,0 +1,5 @@
+---
+# tasks file for flush-handlers
+
+- name: flush handlers | flush handlers
+  meta: flush_handlers
